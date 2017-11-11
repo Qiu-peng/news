@@ -1,3 +1,3 @@
 # one
 import time
-print('qqqqqqqqqqqqqqqqqqqq')
+print('asdwqewq')
